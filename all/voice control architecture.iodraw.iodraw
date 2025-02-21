@@ -4,11 +4,17 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="FIF4TKqH1OKlI0nvidlw-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FIF4TKqH1OKlI0nvidlw-1" target="FIF4TKqH1OKlI0nvidlw-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FIF4TKqH1OKlI0nvidlw-1" value="voice input" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="170" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FIF4TKqH1OKlI0nvidlw-2" value="Feature Extraction" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="170" width="80" height="40" as="geometry" />
+          <mxGeometry x="210" y="170" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FIF4TKqH1OKlI0nvidlw-4" value="Feature Extraction" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="374" y="170" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
