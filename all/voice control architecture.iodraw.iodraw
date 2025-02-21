@@ -73,8 +73,14 @@
         <mxCell id="iLM4n4CZV7PqPZ5OOE1h-26" value="Voice Decoding" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="360" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="iLM4n4CZV7PqPZ5OOE1h-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iLM4n4CZV7PqPZ5OOE1h-28" target="iLM4n4CZV7PqPZ5OOE1h-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iLM4n4CZV7PqPZ5OOE1h-28" value="Text Output" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iLM4n4CZV7PqPZ5OOE1h-31" value="Text to Speech" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="360" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
