@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="iLM4n4CZV7PqPZ5OOE1h-42" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="30" y="420" width="300" height="60" as="geometry" />
+          <mxGeometry x="30" y="490" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iLM4n4CZV7PqPZ5OOE1h-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iLM4n4CZV7PqPZ5OOE1h-35" target="iLM4n4CZV7PqPZ5OOE1h-26">
           <mxGeometry relative="1" as="geometry" />
@@ -99,9 +99,6 @@
         </mxCell>
         <mxCell id="iLM4n4CZV7PqPZ5OOE1h-38" value="Signal Conversion" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="430" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="iLM4n4CZV7PqPZ5OOE1h-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iLM4n4CZV7PqPZ5OOE1h-39" target="iLM4n4CZV7PqPZ5OOE1h-21">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iLM4n4CZV7PqPZ5OOE1h-39" value="Voice Activity Detection (VAD)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="135" y="430" width="90" height="40" as="geometry" />
