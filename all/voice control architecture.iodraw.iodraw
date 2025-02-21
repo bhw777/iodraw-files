@@ -39,13 +39,13 @@
         <mxCell id="iLM4n4CZV7PqPZ5OOE1h-5" value="Acoustic Model Training" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="200" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iLM4n4CZV7PqPZ5OOE1h-7" value="Acoustic Model" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="iLM4n4CZV7PqPZ5OOE1h-7" value="Acoustic Model" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="245" y="280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iLM4n4CZV7PqPZ5OOE1h-11" value="Dictionary" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="280" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iLM4n4CZV7PqPZ5OOE1h-12" value="Language Model" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="iLM4n4CZV7PqPZ5OOE1h-12" value="Language Model" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="435" y="280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iLM4n4CZV7PqPZ5OOE1h-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iLM4n4CZV7PqPZ5OOE1h-13" target="iLM4n4CZV7PqPZ5OOE1h-12">
@@ -78,7 +78,7 @@
         <mxCell id="iLM4n4CZV7PqPZ5OOE1h-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iLM4n4CZV7PqPZ5OOE1h-22" target="iLM4n4CZV7PqPZ5OOE1h-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iLM4n4CZV7PqPZ5OOE1h-22" value="Feature Extraction" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="iLM4n4CZV7PqPZ5OOE1h-22" value="Feature Extraction" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="360" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iLM4n4CZV7PqPZ5OOE1h-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iLM4n4CZV7PqPZ5OOE1h-26" target="iLM4n4CZV7PqPZ5OOE1h-28">
