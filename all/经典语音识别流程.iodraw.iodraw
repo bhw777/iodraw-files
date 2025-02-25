@@ -58,13 +58,13 @@
         <mxCell id="QcexIJL_LH0kF6EXyEJ4-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QcexIJL_LH0kF6EXyEJ4-7" target="QcexIJL_LH0kF6EXyEJ4-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QcexIJL_LH0kF6EXyEJ4-7" value="Deep Neural Network" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QcexIJL_LH0kF6EXyEJ4-7" value="Deep Neural Network" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="130" y="280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QcexIJL_LH0kF6EXyEJ4-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QcexIJL_LH0kF6EXyEJ4-9" target="QcexIJL_LH0kF6EXyEJ4-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QcexIJL_LH0kF6EXyEJ4-9" value="Feature Extraction" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QcexIJL_LH0kF6EXyEJ4-9" value="Deep Neural Network" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="280" y="280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QcexIJL_LH0kF6EXyEJ4-10" value="Speech&amp;nbsp;&lt;div&gt;Features&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -101,7 +101,7 @@
             <mxPoint x="100" y="410" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QcexIJL_LH0kF6EXyEJ4-21" value="Deep Neural Network" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QcexIJL_LH0kF6EXyEJ4-21" value="Deep Neural Network" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="130" y="390" width="530" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QcexIJL_LH0kF6EXyEJ4-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
