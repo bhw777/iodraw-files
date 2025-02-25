@@ -52,7 +52,7 @@
         <mxCell id="QcexIJL_LH0kF6EXyEJ4-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="QcexIJL_LH0kF6EXyEJ4-95" target="QcexIJL_LH0kF6EXyEJ4-97" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QcexIJL_LH0kF6EXyEJ4-95" value="Deep Neural Network" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QcexIJL_LH0kF6EXyEJ4-95" value="Deep Neural Network" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="130" y="280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QcexIJL_LH0kF6EXyEJ4-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="QcexIJL_LH0kF6EXyEJ4-97" target="QcexIJL_LH0kF6EXyEJ4-100" parent="1">
@@ -97,9 +97,6 @@
             <mxPoint x="510" y="420" as="sourcePoint" />
             <mxPoint x="580" y="420" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="QcexIJL_LH0kF6EXyEJ4-114" value="Language&lt;div&gt;Model&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="505" y="380" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QcexIJL_LH0kF6EXyEJ4-115" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTUgN0g3VjE3SDVWN1pNMSAxMEgzVjE0SDFWMTBaTTkgMkgxMVYyMEg5VjJaTTEzIDRIMTVWMjJIMTNWNFpNMTcgN0gxOVYxN0gxN1Y3Wk0yMSAxMEgyM1YxNEgyMVYxMFoiLz48L3N2Zz4=;" vertex="1" parent="1">
           <mxGeometry x="50" y="400" width="40" height="40" as="geometry" />
