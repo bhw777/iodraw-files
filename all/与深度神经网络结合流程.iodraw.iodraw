@@ -7,6 +7,9 @@
         <mxCell id="-9pfejm7JI7Jf6YRPtBw-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-9pfejm7JI7Jf6YRPtBw-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="380" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="310" y="180" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="-9pfejm7JI7Jf6YRPtBw-3" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Acoustic&lt;/span&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;Model&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
