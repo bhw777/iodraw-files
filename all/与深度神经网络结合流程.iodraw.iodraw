@@ -27,10 +27,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-9pfejm7JI7Jf6YRPtBw-8" value="Vocal Dictionary" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="160" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="-9pfejm7JI7Jf6YRPtBw-10" value="Language&lt;div&gt;Model&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="430" y="140" width="80" height="40" as="geometry" />
+          <mxGeometry x="500" y="160" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-9pfejm7JI7Jf6YRPtBw-11" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTUgN0g3VjE3SDVWN1pNMSAxMEgzVjE0SDFWMTBaTTkgMkgxMVYyMEg5VjJaTTEzIDRIMTVWMjJIMTNWNFpNMTcgN0gxOVYxN0gxN1Y3Wk0yMSAxMEgyM1YxNEgyMVYxMFoiLz48L3N2Zz4=;" vertex="1" parent="1">
           <mxGeometry x="90" y="160" width="40" height="40" as="geometry" />
