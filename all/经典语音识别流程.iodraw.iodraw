@@ -31,7 +31,7 @@
         <mxCell id="3dPRBNF_0kdhE7hjLwos-8" value="Time Series Modeling" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="160" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3dPRBNF_0kdhE7hjLwos-10" value="Time Series Modeling" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3dPRBNF_0kdhE7hjLwos-10" value="Text Output" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="160" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
