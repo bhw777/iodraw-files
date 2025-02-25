@@ -47,11 +47,9 @@
         <mxCell id="QcexIJL_LH0kF6EXyEJ4-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTUgN0g3VjE3SDVWN1pNMSAxMEgzVjE0SDFWMTBaTTkgMkgxMVYyMEg5VjJaTTEzIDRIMTVWMjJIMTNWNFpNMTcgN0gxOVYxN0gxN1Y3Wk0yMSAxMEgyM1YxNEgyMVYxMFoiLz48L3N2Zz4=;" vertex="1" parent="1">
           <mxGeometry x="50" y="160" width="40" height="40" as="geometry" />
         </mxCell>
-        <UserObject label="&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; id=&quot;mdi-text-box-multiple-outline&quot; viewBox=&quot;0 0 24 24&quot;&gt;&lt;path d=&quot;M16,15H9V13H16V15M19,11H9V9H19V11M19,7H9V5H19V7M3,5V21H19V23H3A2,2 0 0,1 1,21V5H3M21,1A2,2 0 0,1 23,3V17C23,18.11 22.11,19 21,19H7A2,2 0 0,1 5,17V3C5,1.89 5.89,1 7,1H21M7,3V17H21V3H7Z&quot;/&gt;&lt;/svg&gt;" link="&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; id=&quot;mdi-text-box-multiple-outline&quot; viewBox=&quot;0 0 24 24&quot;&gt;&lt;path d=&quot;M16,15H9V13H16V15M19,11H9V9H19V11M19,7H9V5H19V7M3,5V21H19V23H3A2,2 0 0,1 1,21V5H3M21,1A2,2 0 0,1 23,3V17C23,18.11 22.11,19 21,19H7A2,2 0 0,1 5,17V3C5,1.89 5.89,1 7,1H21M7,3V17H21V3H7Z&quot;/&gt;&lt;/svg&gt;" id="QcexIJL_LH0kF6EXyEJ4-3">
-          <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
-            <mxGeometry x="250" y="310" width="560" height="100" as="geometry" />
-          </mxCell>
-        </UserObject>
+        <mxCell id="QcexIJL_LH0kF6EXyEJ4-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgaWQ9Im1kaS10ZXh0LWJveC1tdWx0aXBsZS1vdXRsaW5lIj48cGF0aCBkPSJNMTYsMTVIOVYxM0gxNlYxNU0xOSwxMUg5VjlIMTlWMTFNMTksN0g5VjVIMTlWN00zLDVWMjFIMTlWMjNIM0EyLDIgMCAwLDEgMSwyMVY1SDNNMjEsMUEyLDIgMCAwLDEgMjMsM1YxN0MyMywxOC4xMSAyMi4xMSwxOSAyMSwxOUg3QTIsMiAwIDAsMSA1LDE3VjNDNSwxLjg5IDUuODksMSA3LDFIMjFNNywzVjE3SDIxVjNIN1oiLz48L3N2Zz4=;" vertex="1" parent="1">
+          <mxGeometry x="420" y="260" width="24" height="24" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
