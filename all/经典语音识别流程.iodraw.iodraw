@@ -34,6 +34,9 @@
         <mxCell id="3dPRBNF_0kdhE7hjLwos-10" value="Text Output" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="160" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="3dPRBNF_0kdhE7hjLwos-13" value="Speech&amp;nbsp;&lt;div&gt;Features&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="150" width="70" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
