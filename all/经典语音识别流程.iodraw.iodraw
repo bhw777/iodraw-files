@@ -101,7 +101,7 @@
             <mxPoint x="100" y="410" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QcexIJL_LH0kF6EXyEJ4-21" value="Feature Extraction" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QcexIJL_LH0kF6EXyEJ4-21" value="Deep Neural Network" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="390" width="530" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QcexIJL_LH0kF6EXyEJ4-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
