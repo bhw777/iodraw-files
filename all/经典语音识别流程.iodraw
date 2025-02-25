@@ -1,0 +1,39 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="hbAgSEga17ISd8EyAKFT">
+    <mxGraphModel dx="1002" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3dPRBNF_0kdhE7hjLwos-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="QcexIJL_LH0kF6EXyEJ4-1" target="3dPRBNF_0kdhE7hjLwos-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="110" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3dPRBNF_0kdhE7hjLwos-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3dPRBNF_0kdhE7hjLwos-3" target="3dPRBNF_0kdhE7hjLwos-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3dPRBNF_0kdhE7hjLwos-3" value="Feature Extraction" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="90" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3dPRBNF_0kdhE7hjLwos-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3dPRBNF_0kdhE7hjLwos-5" target="3dPRBNF_0kdhE7hjLwos-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3dPRBNF_0kdhE7hjLwos-5" value="Time Series Modeling" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="90" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QcexIJL_LH0kF6EXyEJ4-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3dPRBNF_0kdhE7hjLwos-8" target="QcexIJL_LH0kF6EXyEJ4-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3dPRBNF_0kdhE7hjLwos-8" value="Vocal Dictionary" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="90" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QcexIJL_LH0kF6EXyEJ4-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTUgN0g3VjE3SDVWN1pNMSAxMEgzVjE0SDFWMTBaTTkgMkgxMVYyMEg5VjJaTTEzIDRIMTVWMjJIMTNWNFpNMTcgN0gxOVYxN0gxN1Y3Wk0yMSAxMEgyM1YxNEgyMVYxMFoiLz48L3N2Zz4=;" vertex="1" parent="1">
+          <mxGeometry x="20" y="90" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QcexIJL_LH0kF6EXyEJ4-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgaWQ9Im1kaS10ZXh0LWJveC1tdWx0aXBsZS1vdXRsaW5lIj48cGF0aCBkPSJNMTYsMTVIOVYxM0gxNlYxNU0xOSwxMUg5VjlIMTlWMTFNMTksN0g5VjVIMTlWN00zLDVWMjFIMTlWMjNIM0EyLDIgMCAwLDEgMSwyMVY1SDNNMjEsMUEyLDIgMCAwLDEgMjMsM1YxN0MyMywxOC4xMSAyMi4xMSwxOSAyMSwxOUg3QTIsMiAwIDAsMSA1LDE3VjNDNSwxLjg5IDUuODksMSA3LDFIMjFNNywzVjE3SDIxVjNIN1oiLz48L3N2Zz4=;" vertex="1" parent="1">
+          <mxGeometry x="590" y="90" width="40" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
