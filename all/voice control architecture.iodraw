@@ -126,6 +126,9 @@
         <mxCell id="T91nZ3Ia5HlAzE1ArpsV-7" value="&lt;b&gt;&lt;font color=&quot;#ff8000&quot; style=&quot;font-size: 14px;&quot;&gt;Server&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="670" y="205" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="T91nZ3Ia5HlAzE1ArpsV-8" value="&lt;b&gt;&lt;font color=&quot;#6666ff&quot; style=&quot;font-size: 14px;&quot;&gt;Ecosystem&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="440" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
