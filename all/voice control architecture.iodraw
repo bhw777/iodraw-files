@@ -40,13 +40,8 @@
         <mxCell id="iLM4n4CZV7PqPZ5OOE1h-2" value="Speech Database" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="200" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="T91nZ3Ia5HlAzE1ArpsV-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iLM4n4CZV7PqPZ5OOE1h-5" target="iLM4n4CZV7PqPZ5OOE1h-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="185" y="260" />
-              <mxPoint x="80" y="260" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="T91nZ3Ia5HlAzE1ArpsV-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iLM4n4CZV7PqPZ5OOE1h-5" target="iLM4n4CZV7PqPZ5OOE1h-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iLM4n4CZV7PqPZ5OOE1h-5" value="Acoustic Model Training" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="200" width="90" height="40" as="geometry" />
@@ -55,7 +50,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iLM4n4CZV7PqPZ5OOE1h-7" value="Acoustic Model" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="140" y="280" width="80" height="40" as="geometry" />
+          <mxGeometry x="145" y="280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iLM4n4CZV7PqPZ5OOE1h-11" value="Dictionary" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="280" width="80" height="40" as="geometry" />
