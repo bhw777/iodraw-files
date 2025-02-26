@@ -120,7 +120,7 @@
         <mxCell id="iLM4n4CZV7PqPZ5OOE1h-40" value="Noise Reduction" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="430" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="T91nZ3Ia5HlAzE1ArpsV-6" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Ecosystem&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="T91nZ3Ia5HlAzE1ArpsV-6" value="&lt;b&gt;&lt;font color=&quot;#6666ff&quot; style=&quot;font-size: 14px;&quot;&gt;Ecosystem&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="670" y="285" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
