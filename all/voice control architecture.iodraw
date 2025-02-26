@@ -94,22 +94,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iLM4n4CZV7PqPZ5OOE1h-26" value="Voice Decoding" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="360" width="80" height="40" as="geometry" />
+          <mxGeometry x="345" y="360" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iLM4n4CZV7PqPZ5OOE1h-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iLM4n4CZV7PqPZ5OOE1h-28" target="iLM4n4CZV7PqPZ5OOE1h-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iLM4n4CZV7PqPZ5OOE1h-28" value="Text Output" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="360" width="80" height="40" as="geometry" />
+          <mxGeometry x="450" y="360" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iLM4n4CZV7PqPZ5OOE1h-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iLM4n4CZV7PqPZ5OOE1h-31" target="iLM4n4CZV7PqPZ5OOE1h-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iLM4n4CZV7PqPZ5OOE1h-31" value="Text to Speech (TTS)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="540" y="360" width="80" height="40" as="geometry" />
+          <mxGeometry x="550" y="360" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iLM4n4CZV7PqPZ5OOE1h-33" value="Voice Output" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="640" y="360" width="80" height="40" as="geometry" />
+          <mxGeometry x="650" y="360" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iLM4n4CZV7PqPZ5OOE1h-38" value="Signal Conversion" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="430" width="80" height="40" as="geometry" />
@@ -119,6 +119,9 @@
         </mxCell>
         <mxCell id="iLM4n4CZV7PqPZ5OOE1h-40" value="Noise Reduction" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="430" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T91nZ3Ia5HlAzE1ArpsV-6" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="285" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
