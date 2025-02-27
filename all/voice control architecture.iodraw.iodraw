@@ -39,7 +39,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iLM4n4CZV7PqPZ5OOE1h-7" value="Acoustic Model" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="70" y="280" width="80" height="40" as="geometry" />
+          <mxGeometry x="180" y="280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YrMPg6HGpBfIyIPN8bKX-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iLM4n4CZV7PqPZ5OOE1h-11" target="iLM4n4CZV7PqPZ5OOE1h-28">
           <mxGeometry relative="1" as="geometry" />
@@ -52,14 +52,6 @@
         </mxCell>
         <mxCell id="iLM4n4CZV7PqPZ5OOE1h-12" value="Language Model" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="295" y="280" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="AG31hqQCjEdd71RA2Uwd-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="iLM4n4CZV7PqPZ5OOE1h-13" target="iLM4n4CZV7PqPZ5OOE1h-12" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="335" y="260" />
-              <mxPoint x="260" y="260" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="iLM4n4CZV7PqPZ5OOE1h-13" value="Language&lt;div&gt;Model Training&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="200" width="90" height="40" as="geometry" />
