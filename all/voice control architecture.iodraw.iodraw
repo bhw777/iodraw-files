@@ -161,8 +161,8 @@
         <mxCell id="YrMPg6HGpBfIyIPN8bKX-42" value="Execution" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="210" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YrMPg6HGpBfIyIPN8bKX-47" value="Azurion System" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="630" y="220" width="60" height="30" as="geometry" />
+        <mxCell id="YrMPg6HGpBfIyIPN8bKX-47" value="&lt;b&gt;&lt;font color=&quot;#cc0000&quot;&gt;Azurion&lt;/font&gt; System&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="215" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
