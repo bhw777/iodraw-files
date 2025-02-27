@@ -21,23 +21,31 @@
         <mxCell id="iLM4n4CZV7PqPZ5OOE1h-35" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="40" y="270" width="680" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iLM4n4CZV7PqPZ5OOE1h-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iLM4n4CZV7PqPZ5OOE1h-2" target="iLM4n4CZV7PqPZ5OOE1h-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="iLM4n4CZV7PqPZ5OOE1h-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iLM4n4CZV7PqPZ5OOE1h-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="220" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="iLM4n4CZV7PqPZ5OOE1h-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iLM4n4CZV7PqPZ5OOE1h-2" target="iLM4n4CZV7PqPZ5OOE1h-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="iLM4n4CZV7PqPZ5OOE1h-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iLM4n4CZV7PqPZ5OOE1h-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="220" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="iLM4n4CZV7PqPZ5OOE1h-2" value="Speech Database" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="200" width="80" height="40" as="geometry" />
+          <mxGeometry x="30" y="200" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iLM4n4CZV7PqPZ5OOE1h-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iLM4n4CZV7PqPZ5OOE1h-3" target="iLM4n4CZV7PqPZ5OOE1h-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="iLM4n4CZV7PqPZ5OOE1h-3" value="Feature Extraction" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="140" y="200" width="80" height="40" as="geometry" />
+        <mxCell id="iLM4n4CZV7PqPZ5OOE1h-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="iLM4n4CZV7PqPZ5OOE1h-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="220" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="iLM4n4CZV7PqPZ5OOE1h-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iLM4n4CZV7PqPZ5OOE1h-5" target="iLM4n4CZV7PqPZ5OOE1h-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AG31hqQCjEdd71RA2Uwd-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iLM4n4CZV7PqPZ5OOE1h-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="220" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="iLM4n4CZV7PqPZ5OOE1h-5" value="Acoustic Model Training" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="200" width="90" height="40" as="geometry" />
@@ -49,7 +57,7 @@
           <mxGeometry x="180" y="280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iLM4n4CZV7PqPZ5OOE1h-12" value="Language Model" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="435" y="280" width="80" height="40" as="geometry" />
+          <mxGeometry x="270" y="280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iLM4n4CZV7PqPZ5OOE1h-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iLM4n4CZV7PqPZ5OOE1h-13" target="iLM4n4CZV7PqPZ5OOE1h-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
