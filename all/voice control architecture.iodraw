@@ -15,9 +15,6 @@
             <mxPoint x="540" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iLM4n4CZV7PqPZ5OOE1h-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="420" width="300" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="iLM4n4CZV7PqPZ5OOE1h-35" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="40" y="270" width="770" height="60" as="geometry" />
         </mxCell>
@@ -81,14 +78,20 @@
         <mxCell id="iLM4n4CZV7PqPZ5OOE1h-33" value="Voice Output" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="360" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iLM4n4CZV7PqPZ5OOE1h-38" value="Signal Conversion" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="430" width="80" height="40" as="geometry" />
+        <mxCell id="AG31hqQCjEdd71RA2Uwd-5" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="130" y="410" width="300" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iLM4n4CZV7PqPZ5OOE1h-39" value="Voice Activity Detection (VAD)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="135" y="430" width="90" height="40" as="geometry" />
+        <mxCell id="iLM4n4CZV7PqPZ5OOE1h-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="AG31hqQCjEdd71RA2Uwd-5" vertex="1">
+          <mxGeometry width="300" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iLM4n4CZV7PqPZ5OOE1h-40" value="Noise Reduction" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="430" width="80" height="40" as="geometry" />
+        <mxCell id="iLM4n4CZV7PqPZ5OOE1h-38" value="Signal Conversion" style="rounded=0;whiteSpace=wrap;html=1;" parent="AG31hqQCjEdd71RA2Uwd-5" vertex="1">
+          <mxGeometry x="10" y="10" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iLM4n4CZV7PqPZ5OOE1h-39" value="Voice Activity Detection (VAD)" style="rounded=0;whiteSpace=wrap;html=1;" parent="AG31hqQCjEdd71RA2Uwd-5" vertex="1">
+          <mxGeometry x="105" y="10" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iLM4n4CZV7PqPZ5OOE1h-40" value="Noise Reduction" style="rounded=0;whiteSpace=wrap;html=1;" parent="AG31hqQCjEdd71RA2Uwd-5" vertex="1">
+          <mxGeometry x="210" y="10" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
