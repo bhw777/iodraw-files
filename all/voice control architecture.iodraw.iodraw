@@ -24,13 +24,8 @@
         <mxCell id="iLM4n4CZV7PqPZ5OOE1h-2" value="Speech Database" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="200" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AG31hqQCjEdd71RA2Uwd-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="iLM4n4CZV7PqPZ5OOE1h-5" target="iLM4n4CZV7PqPZ5OOE1h-7" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="220" y="260" />
-              <mxPoint x="110" y="260" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="YrMPg6HGpBfIyIPN8bKX-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iLM4n4CZV7PqPZ5OOE1h-5" target="iLM4n4CZV7PqPZ5OOE1h-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iLM4n4CZV7PqPZ5OOE1h-5" value="Acoustic Model Training" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="175" y="200" width="90" height="40" as="geometry" />
@@ -77,14 +72,6 @@
         <mxCell id="iLM4n4CZV7PqPZ5OOE1h-21" value="Preprocessing" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="360" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YrMPg6HGpBfIyIPN8bKX-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="iLM4n4CZV7PqPZ5OOE1h-22" target="iLM4n4CZV7PqPZ5OOE1h-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="460" y="340" />
-              <mxPoint x="110" y="340" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="iLM4n4CZV7PqPZ5OOE1h-22" value="Feature Extraction" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="360" width="80" height="40" as="geometry" />
         </mxCell>
@@ -126,6 +113,9 @@
         </mxCell>
         <mxCell id="AG31hqQCjEdd71RA2Uwd-9" value="&lt;font color=&quot;#00cc00&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;Module&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="730" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YrMPg6HGpBfIyIPN8bKX-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="iLM4n4CZV7PqPZ5OOE1h-13" target="iLM4n4CZV7PqPZ5OOE1h-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
