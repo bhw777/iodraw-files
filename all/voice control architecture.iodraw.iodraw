@@ -95,7 +95,7 @@
         <mxCell id="iLM4n4CZV7PqPZ5OOE1h-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iLM4n4CZV7PqPZ5OOE1h-28" target="iLM4n4CZV7PqPZ5OOE1h-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iLM4n4CZV7PqPZ5OOE1h-28" value="Text Output&amp;nbsp;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;amp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="iLM4n4CZV7PqPZ5OOE1h-28" value="Text Output" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="310" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iLM4n4CZV7PqPZ5OOE1h-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iLM4n4CZV7PqPZ5OOE1h-31" target="iLM4n4CZV7PqPZ5OOE1h-33" edge="1">
@@ -147,7 +147,7 @@
         <mxCell id="YrMPg6HGpBfIyIPN8bKX-41" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Azurion System&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="100" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YrMPg6HGpBfIyIPN8bKX-42" value="Azurion System" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YrMPg6HGpBfIyIPN8bKX-42" value="Execution" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="210" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
