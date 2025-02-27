@@ -135,11 +135,10 @@
         <mxCell id="rmG7DJ6GLtaN_3mCDm1S-41" value="&lt;b&gt;&lt;font color=&quot;#00cc00&quot; style=&quot;font-size: 14px;&quot;&gt;Module&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="680" y="450" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rmG7DJ6GLtaN_3mCDm1S-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rmG7DJ6GLtaN_3mCDm1S-43" target="rmG7DJ6GLtaN_3mCDm1S-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="rmG7DJ6GLtaN_3mCDm1S-43" value="Translator" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="50" y="290" width="80" height="40" as="geometry" />
+        <mxCell id="rmG7DJ6GLtaN_3mCDm1S-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="rmG7DJ6GLtaN_3mCDm1S-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="310" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
