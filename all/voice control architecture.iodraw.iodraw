@@ -123,6 +123,9 @@
         <mxCell id="YrMPg6HGpBfIyIPN8bKX-71" value="Parameter Setting" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="296" y="205" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="YrMPg6HGpBfIyIPN8bKX-76" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgaWQ9Im1kaS1hY2NvdW50LXZvaWNlIj48cGF0aCBkPSJNOSw1QTQsNCAwIDAsMSAxMyw5QTQsNCAwIDAsMSA5LDEzQTQsNCAwIDAsMSA1LDlBNCw0IDAgMCwxIDksNU05LDE1QzExLjY3LDE1IDE3LDE2LjM0IDE3LDE5VjIxSDFWMTlDMSwxNi4zNCA2LjMzLDE1IDksMTVNMTYuNzYsNS4zNkMxOC43OCw3LjU2IDE4Ljc4LDEwLjYxIDE2Ljc2LDEyLjYzTDE1LjA4LDEwLjk0QzE1LjkyLDkuNzYgMTUuOTIsOC4yMyAxNS4wOCw3LjA1TDE2Ljc2LDUuMzZNMjAuMDcsMkMyNCw2LjA1IDIzLjk3LDEyLjExIDIwLjA3LDE2TDE4LjQ0LDE0LjM3QzIxLjIxLDExLjE5IDIxLjIxLDYuNjUgMTguNDQsMy42M0wyMC4wNywyWiIvPjwvc3ZnPg==;" vertex="1" parent="1">
+          <mxGeometry x="130" y="390" width="24" height="24" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
