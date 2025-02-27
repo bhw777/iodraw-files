@@ -41,14 +41,17 @@
         <mxCell id="iLM4n4CZV7PqPZ5OOE1h-7" value="Acoustic Model" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="280" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="YrMPg6HGpBfIyIPN8bKX-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iLM4n4CZV7PqPZ5OOE1h-11" target="iLM4n4CZV7PqPZ5OOE1h-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iLM4n4CZV7PqPZ5OOE1h-11" value="Dictionary" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="380" y="280" width="80" height="40" as="geometry" />
+          <mxGeometry x="420" y="280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AG31hqQCjEdd71RA2Uwd-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iLM4n4CZV7PqPZ5OOE1h-12" target="iLM4n4CZV7PqPZ5OOE1h-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iLM4n4CZV7PqPZ5OOE1h-12" value="Language Model" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="220" y="280" width="80" height="40" as="geometry" />
+          <mxGeometry x="295" y="280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AG31hqQCjEdd71RA2Uwd-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="iLM4n4CZV7PqPZ5OOE1h-13" target="iLM4n4CZV7PqPZ5OOE1h-12" edge="1">
           <mxGeometry relative="1" as="geometry">
