@@ -131,7 +131,7 @@
           <mxGeometry x="210" y="10" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AG31hqQCjEdd71RA2Uwd-8" value="&lt;font color=&quot;#007fff&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;3rd Party&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;color: rgb(0, 127, 255); background-color: initial;&quot;&gt;Ecosystem&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="325" y="350" width="185" height="30" as="geometry" />
+          <mxGeometry x="90" y="350" width="590" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AG31hqQCjEdd71RA2Uwd-9" value="&lt;font color=&quot;#00cc00&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;Voice&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;color: rgb(0, 204, 0); background-color: initial;&quot;&gt;Control Module&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="90" y="520" width="590" height="30" as="geometry" />
@@ -160,6 +160,9 @@
         </mxCell>
         <mxCell id="YrMPg6HGpBfIyIPN8bKX-47" value="&lt;b&gt;&lt;font color=&quot;#cc0000&quot;&gt;Azurion System&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="546.25" y="190" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YrMPg6HGpBfIyIPN8bKX-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AG31hqQCjEdd71RA2Uwd-7" target="iLM4n4CZV7PqPZ5OOE1h-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AG31hqQCjEdd71RA2Uwd-7" value="&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ff8000&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;Computing Server&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="160" y="180" width="280" height="30" as="geometry" />
