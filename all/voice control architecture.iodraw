@@ -93,8 +93,8 @@
         <mxCell id="iLM4n4CZV7PqPZ5OOE1h-40" value="Noise Reduction" style="rounded=0;whiteSpace=wrap;html=1;" parent="AG31hqQCjEdd71RA2Uwd-5" vertex="1">
           <mxGeometry x="210" y="10" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AG31hqQCjEdd71RA2Uwd-7" value="&lt;font color=&quot;#ff8000&quot;&gt;&lt;b&gt;Server&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="730" y="210" width="60" height="30" as="geometry" />
+        <mxCell id="AG31hqQCjEdd71RA2Uwd-7" value="&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ff8000&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;Server&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="730" y="205" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
