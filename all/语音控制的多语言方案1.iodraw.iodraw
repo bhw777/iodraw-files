@@ -4,12 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="McHOg277_hmgVNXhpgxG-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="McHOg277_hmgVNXhpgxG-2" target="McHOg277_hmgVNXhpgxG-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="McHOg277_hmgVNXhpgxG-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="McHOg277_hmgVNXhpgxG-2" target="McHOg277_hmgVNXhpgxG-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="McHOg277_hmgVNXhpgxG-2" value="Translator Model" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="190" width="66" height="40" as="geometry" />
         </mxCell>
