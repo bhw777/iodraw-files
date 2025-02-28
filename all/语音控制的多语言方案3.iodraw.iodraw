@@ -31,8 +31,8 @@
         <mxCell id="epYQpn8SQaMTIQ4oTSD7-34" value="Monolingual Language model 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="170" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="epYQpn8SQaMTIQ4oTSD7-35" value="Text to Speech Model" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="170" width="80" height="40" as="geometry" />
+        <mxCell id="epYQpn8SQaMTIQ4oTSD7-35" value="Text to Speech Model 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="170" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
