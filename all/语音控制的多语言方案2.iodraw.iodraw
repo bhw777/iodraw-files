@@ -39,15 +39,6 @@
             <mxPoint x="170" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="McHOg277_hmgVNXhpgxG-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="McHOg277_hmgVNXhpgxG-15" target="McHOg277_hmgVNXhpgxG-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="113" y="280" />
-              <mxPoint x="480" y="280" />
-              <mxPoint x="480" y="260" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="McHOg277_hmgVNXhpgxG-15" value="Language Detector" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="220" width="66" height="40" as="geometry" />
         </mxCell>
