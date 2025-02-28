@@ -91,7 +91,7 @@
           <mxGeometry x="505" y="410" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AG31hqQCjEdd71RA2Uwd-9" value="&lt;font color=&quot;#00cc00&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;Voice&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;color: rgb(0, 204, 0); background-color: initial;&quot;&gt;Control Module&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="90" y="520" width="590" height="30" as="geometry" />
+          <mxGeometry x="90" y="520" width="600" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YrMPg6HGpBfIyIPN8bKX-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YrMPg6HGpBfIyIPN8bKX-42" target="iLM4n4CZV7PqPZ5OOE1h-28">
           <mxGeometry relative="1" as="geometry" />
