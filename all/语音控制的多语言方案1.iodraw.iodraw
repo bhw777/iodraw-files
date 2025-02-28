@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="McHOg277_hmgVNXhpgxG-2" value="Translator Model" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="174" y="220" width="66" height="40" as="geometry" />
+          <mxGeometry x="170" y="220" width="66" height="40" as="geometry" />
         </mxCell>
         <mxCell id="McHOg277_hmgVNXhpgxG-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="McHOg277_hmgVNXhpgxG-4" target="McHOg277_hmgVNXhpgxG-2">
           <mxGeometry relative="1" as="geometry" />
@@ -17,7 +17,7 @@
           <mxGeometry x="34" y="220" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="McHOg277_hmgVNXhpgxG-6" value="Monolingual Text to Speech Model" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="514" y="220" width="140" height="40" as="geometry" />
+          <mxGeometry x="420" y="220" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="McHOg277_hmgVNXhpgxG-7" value="Multilingual Voice Output" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="830" y="220" width="110" height="40" as="geometry" />
@@ -26,10 +26,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="McHOg277_hmgVNXhpgxG-8" value="Monolingual Speech Recognition Model" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="274" y="220" width="140" height="40" as="geometry" />
+          <mxGeometry x="260" y="220" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="McHOg277_hmgVNXhpgxG-12" value="Translator Model" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="220" width="70" height="40" as="geometry" />
+          <mxGeometry x="620" y="220" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
