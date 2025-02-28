@@ -13,8 +13,8 @@
         <mxCell id="ve0Hozqtx8OUtlbxkmXQ-5" value="Multilingual&amp;nbsp;Input" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="220" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ve0Hozqtx8OUtlbxkmXQ-7" value="Multilingual Speech Recognition Model" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="230" width="140" height="40" as="geometry" />
+        <mxCell id="ve0Hozqtx8OUtlbxkmXQ-7" value="Multilingual Text to Speech Model" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="220" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
