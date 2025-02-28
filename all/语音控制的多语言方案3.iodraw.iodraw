@@ -16,11 +16,6 @@
         <mxCell id="epYQpn8SQaMTIQ4oTSD7-8" value="Multilingual Voice Output" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="210" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="epYQpn8SQaMTIQ4oTSD7-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="epYQpn8SQaMTIQ4oTSD7-15">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240" y="190" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="epYQpn8SQaMTIQ4oTSD7-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="epYQpn8SQaMTIQ4oTSD7-15" target="epYQpn8SQaMTIQ4oTSD7-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -43,13 +38,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="epYQpn8SQaMTIQ4oTSD7-33" value="&amp;nbsp;Monolingual Acoustic model" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="160" width="90" height="40" as="geometry" />
+          <mxGeometry x="250" y="160" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="epYQpn8SQaMTIQ4oTSD7-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="epYQpn8SQaMTIQ4oTSD7-34" target="epYQpn8SQaMTIQ4oTSD7-35">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="epYQpn8SQaMTIQ4oTSD7-34" value="Monolingual Language model" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="364" y="160" width="96" height="40" as="geometry" />
         </mxCell>
         <mxCell id="epYQpn8SQaMTIQ4oTSD7-35" value="Text to Speech Model" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="466" y="160" width="80" height="40" as="geometry" />
+          <mxGeometry x="480" y="160" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
