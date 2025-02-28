@@ -16,9 +16,6 @@
         <mxCell id="McHOg277_hmgVNXhpgxG-4" value="Multilingual Voice Input" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-50" y="220" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="McHOg277_hmgVNXhpgxG-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="McHOg277_hmgVNXhpgxG-6" target="McHOg277_hmgVNXhpgxG-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="McHOg277_hmgVNXhpgxG-6" value="Monolingual Text to Speech Model" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="130" width="140" height="40" as="geometry" />
         </mxCell>
@@ -32,7 +29,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="McHOg277_hmgVNXhpgxG-12" value="Translator Model" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="220" width="70" height="40" as="geometry" />
+          <mxGeometry x="420" y="220" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="McHOg277_hmgVNXhpgxG-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="McHOg277_hmgVNXhpgxG-15">
           <mxGeometry relative="1" as="geometry">
@@ -43,7 +40,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="110" y="280" />
-              <mxPoint x="615" y="280" />
+              <mxPoint x="460" y="280" />
+              <mxPoint x="460" y="260" />
             </Array>
           </mxGeometry>
         </mxCell>
