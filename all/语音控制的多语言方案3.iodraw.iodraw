@@ -23,7 +23,7 @@
           <mxGeometry x="406" y="170" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="epYQpn8SQaMTIQ4oTSD7-8" value="Multilingual Voice Output" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="210" width="110" height="40" as="geometry" />
+          <mxGeometry x="590" y="210" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="epYQpn8SQaMTIQ4oTSD7-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="epYQpn8SQaMTIQ4oTSD7-10" target="epYQpn8SQaMTIQ4oTSD7-7">
           <mxGeometry relative="1" as="geometry" />
