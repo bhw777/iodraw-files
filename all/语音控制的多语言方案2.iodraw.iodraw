@@ -56,8 +56,11 @@
         <mxCell id="McHOg277_hmgVNXhpgxG-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="McHOg277_hmgVNXhpgxG-25" target="McHOg277_hmgVNXhpgxG-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="McHOg277_hmgVNXhpgxG-25" value="Language model" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="374" y="220" width="80" height="40" as="geometry" />
+        <mxCell id="McHOg277_hmgVNXhpgxG-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="McHOg277_hmgVNXhpgxG-25" target="McHOg277_hmgVNXhpgxG-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="McHOg277_hmgVNXhpgxG-25" value="Monolingual Language model" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="374" y="220" width="96" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
