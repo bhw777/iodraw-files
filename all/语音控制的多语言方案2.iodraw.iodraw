@@ -10,11 +10,8 @@
         <mxCell id="epYQpn8SQaMTIQ4oTSD7-5" value="Multilingual Voice Input" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="210" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="epYQpn8SQaMTIQ4oTSD7-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="epYQpn8SQaMTIQ4oTSD7-7" target="epYQpn8SQaMTIQ4oTSD7-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="epYQpn8SQaMTIQ4oTSD7-7" value="Monolingual Text to Speech Model" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="210" width="140" height="40" as="geometry" />
+        <mxCell id="epYQpn8SQaMTIQ4oTSD7-7" value="Monolingual Text to Speech Model 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="150" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="epYQpn8SQaMTIQ4oTSD7-8" value="Multilingual Voice Output" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="210" width="110" height="40" as="geometry" />
@@ -25,18 +22,18 @@
         <mxCell id="epYQpn8SQaMTIQ4oTSD7-10" value="Monolingual Speech Recognition Model 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="274" y="150" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="epYQpn8SQaMTIQ4oTSD7-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="epYQpn8SQaMTIQ4oTSD7-12" target="epYQpn8SQaMTIQ4oTSD7-8">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="epYQpn8SQaMTIQ4oTSD7-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="epYQpn8SQaMTIQ4oTSD7-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="230" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="epYQpn8SQaMTIQ4oTSD7-12" value="Translator Model" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="210" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="epYQpn8SQaMTIQ4oTSD7-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="epYQpn8SQaMTIQ4oTSD7-15" target="epYQpn8SQaMTIQ4oTSD7-12">
+        <mxCell id="epYQpn8SQaMTIQ4oTSD7-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="epYQpn8SQaMTIQ4oTSD7-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="120" y="270" />
               <mxPoint x="625" y="270" />
             </Array>
+            <mxPoint x="625" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="epYQpn8SQaMTIQ4oTSD7-15" value="Language Detector" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
