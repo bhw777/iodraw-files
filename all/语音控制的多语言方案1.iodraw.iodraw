@@ -20,7 +20,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="McHOg277_hmgVNXhpgxG-6" value="Multilingual Text to Speech Model" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="220" width="140" height="40" as="geometry" />
+          <mxGeometry x="540" y="220" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="McHOg277_hmgVNXhpgxG-7" value="Multilingual Voice Output" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="220" width="110" height="40" as="geometry" />
