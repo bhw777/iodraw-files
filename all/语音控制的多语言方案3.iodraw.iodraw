@@ -11,7 +11,7 @@
           <mxGeometry y="210" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="epYQpn8SQaMTIQ4oTSD7-8" value="Multilingual Voice Output" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="210" width="110" height="40" as="geometry" />
+          <mxGeometry x="640" y="210" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="epYQpn8SQaMTIQ4oTSD7-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="epYQpn8SQaMTIQ4oTSD7-15" target="epYQpn8SQaMTIQ4oTSD7-33">
           <mxGeometry relative="1" as="geometry" />
@@ -20,7 +20,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="epYQpn8SQaMTIQ4oTSD7-15" value="Language Detector" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="210" width="66" height="40" as="geometry" />
+          <mxGeometry x="140" y="210" width="66" height="40" as="geometry" />
         </mxCell>
         <mxCell id="epYQpn8SQaMTIQ4oTSD7-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="epYQpn8SQaMTIQ4oTSD7-33" target="epYQpn8SQaMTIQ4oTSD7-34">
           <mxGeometry relative="1" as="geometry" />
@@ -51,6 +51,9 @@
         </mxCell>
         <mxCell id="epYQpn8SQaMTIQ4oTSD7-41" value="Monolingual Language model 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="240" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="epYQpn8SQaMTIQ4oTSD7-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="epYQpn8SQaMTIQ4oTSD7-42" target="epYQpn8SQaMTIQ4oTSD7-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="epYQpn8SQaMTIQ4oTSD7-42" value="Text to Speech Model 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="240" width="90" height="40" as="geometry" />
