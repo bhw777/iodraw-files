@@ -28,7 +28,7 @@
         <mxCell id="McHOg277_hmgVNXhpgxG-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="McHOg277_hmgVNXhpgxG-8" target="McHOg277_hmgVNXhpgxG-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="McHOg277_hmgVNXhpgxG-8" value="&amp;nbsp;Acoustic model" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="McHOg277_hmgVNXhpgxG-8" value="&amp;nbsp;Monolingual Acoustic model" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="220" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="McHOg277_hmgVNXhpgxG-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="McHOg277_hmgVNXhpgxG-12" target="McHOg277_hmgVNXhpgxG-6">
@@ -46,7 +46,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="113" y="280" />
-              <mxPoint x="475" y="280" />
+              <mxPoint x="510" y="280" />
             </Array>
           </mxGeometry>
         </mxCell>
