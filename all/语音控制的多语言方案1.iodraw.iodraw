@@ -7,7 +7,7 @@
         <mxCell id="ve0Hozqtx8OUtlbxkmXQ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ve0Hozqtx8OUtlbxkmXQ-1" target="ve0Hozqtx8OUtlbxkmXQ-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ve0Hozqtx8OUtlbxkmXQ-1" value="Voice Input" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ve0Hozqtx8OUtlbxkmXQ-1" value="Multilingual&amp;nbsp;Input" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="220" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ve0Hozqtx8OUtlbxkmXQ-2" value="Multilingual Speech Recognition Model" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
