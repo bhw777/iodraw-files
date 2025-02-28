@@ -1,62 +1,67 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="24.7.17">
-  <diagram name="第 1 页" id="52f9UdFTBeH8ecjT7_KK">
-    <mxGraphModel dx="1002" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram name="第 1 页" id="HFHhGMThZX5hxk2WudmN">
+    <mxGraphModel dx="1829" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="epYQpn8SQaMTIQ4oTSD7-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="epYQpn8SQaMTIQ4oTSD7-5" target="epYQpn8SQaMTIQ4oTSD7-15">
+        <mxCell id="McHOg277_hmgVNXhpgxG-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="McHOg277_hmgVNXhpgxG-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="McHOg277_hmgVNXhpgxG-2" value="Translator Model" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="220" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="McHOg277_hmgVNXhpgxG-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="McHOg277_hmgVNXhpgxG-4" target="McHOg277_hmgVNXhpgxG-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="epYQpn8SQaMTIQ4oTSD7-5" value="Multilingual Voice Input" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="210" width="110" height="40" as="geometry" />
+        <mxCell id="McHOg277_hmgVNXhpgxG-4" value="Multilingual Voice Input" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="220" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="epYQpn8SQaMTIQ4oTSD7-8" value="Multilingual Voice Output" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="210" width="110" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="epYQpn8SQaMTIQ4oTSD7-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="epYQpn8SQaMTIQ4oTSD7-15" target="epYQpn8SQaMTIQ4oTSD7-33">
+        <mxCell id="McHOg277_hmgVNXhpgxG-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="McHOg277_hmgVNXhpgxG-6" target="McHOg277_hmgVNXhpgxG-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="epYQpn8SQaMTIQ4oTSD7-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="epYQpn8SQaMTIQ4oTSD7-15" target="epYQpn8SQaMTIQ4oTSD7-39">
+        <mxCell id="McHOg277_hmgVNXhpgxG-6" value="Text to Speech Model" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="220" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="McHOg277_hmgVNXhpgxG-7" value="Multilingual Voice Output" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="220" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="McHOg277_hmgVNXhpgxG-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="McHOg277_hmgVNXhpgxG-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="240" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="McHOg277_hmgVNXhpgxG-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="McHOg277_hmgVNXhpgxG-12" target="McHOg277_hmgVNXhpgxG-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="epYQpn8SQaMTIQ4oTSD7-15" value="Language Detector" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="210" width="66" height="40" as="geometry" />
+        <mxCell id="McHOg277_hmgVNXhpgxG-12" value="Translator Model" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="220" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="epYQpn8SQaMTIQ4oTSD7-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="epYQpn8SQaMTIQ4oTSD7-33" target="epYQpn8SQaMTIQ4oTSD7-34">
+        <mxCell id="McHOg277_hmgVNXhpgxG-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="McHOg277_hmgVNXhpgxG-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="McHOg277_hmgVNXhpgxG-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="McHOg277_hmgVNXhpgxG-15" target="McHOg277_hmgVNXhpgxG-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="113" y="280" />
+              <mxPoint x="530" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="McHOg277_hmgVNXhpgxG-15" value="Language Detector" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="220" width="66" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="McHOg277_hmgVNXhpgxG-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="McHOg277_hmgVNXhpgxG-25" target="McHOg277_hmgVNXhpgxG-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="epYQpn8SQaMTIQ4oTSD7-33" value="&amp;nbsp;Monolingual Acoustic model 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="180" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="epYQpn8SQaMTIQ4oTSD7-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="epYQpn8SQaMTIQ4oTSD7-34" target="epYQpn8SQaMTIQ4oTSD7-35">
+        <mxCell id="McHOg277_hmgVNXhpgxG-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="McHOg277_hmgVNXhpgxG-25" target="McHOg277_hmgVNXhpgxG-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="epYQpn8SQaMTIQ4oTSD7-34" value="Monolingual Language model 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="180" width="110" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="epYQpn8SQaMTIQ4oTSD7-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="epYQpn8SQaMTIQ4oTSD7-35" target="epYQpn8SQaMTIQ4oTSD7-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="epYQpn8SQaMTIQ4oTSD7-35" value="Text to Speech Model 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="180" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="epYQpn8SQaMTIQ4oTSD7-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="epYQpn8SQaMTIQ4oTSD7-39" target="epYQpn8SQaMTIQ4oTSD7-41" parent="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="epYQpn8SQaMTIQ4oTSD7-39" value="&amp;nbsp;Monolingual Acoustic model 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="240" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="epYQpn8SQaMTIQ4oTSD7-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="epYQpn8SQaMTIQ4oTSD7-41" target="epYQpn8SQaMTIQ4oTSD7-42" parent="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="epYQpn8SQaMTIQ4oTSD7-41" value="Monolingual Language model 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="240" width="110" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="epYQpn8SQaMTIQ4oTSD7-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="epYQpn8SQaMTIQ4oTSD7-42" target="epYQpn8SQaMTIQ4oTSD7-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="epYQpn8SQaMTIQ4oTSD7-42" value="Text to Speech Model 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="240" width="90" height="40" as="geometry" />
+        <mxCell id="McHOg277_hmgVNXhpgxG-25" value="Monolingual Language model" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="374" y="220" width="96" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
