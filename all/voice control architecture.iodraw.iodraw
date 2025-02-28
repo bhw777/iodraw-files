@@ -28,7 +28,7 @@
         <mxCell id="YrMPg6HGpBfIyIPN8bKX-102" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="YrMPg6HGpBfIyIPN8bKX-100">
           <mxGeometry width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YrMPg6HGpBfIyIPN8bKX-104" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="YrMPg6HGpBfIyIPN8bKX-100">
+        <mxCell id="YrMPg6HGpBfIyIPN8bKX-104" value="Speech Recognition model" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="YrMPg6HGpBfIyIPN8bKX-100">
           <mxGeometry y="50" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YrMPg6HGpBfIyIPN8bKX-58" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
