@@ -22,14 +22,11 @@
         <mxCell id="McHOg277_hmgVNXhpgxG-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="McHOg277_hmgVNXhpgxG-6" target="McHOg277_hmgVNXhpgxG-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="McHOg277_hmgVNXhpgxG-6" value="Monolingual Text to Speech Model" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="220" width="140" height="40" as="geometry" />
+        <mxCell id="McHOg277_hmgVNXhpgxG-6" value="Text to Speech Model" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="220" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="McHOg277_hmgVNXhpgxG-7" value="Multilingual Voice Output" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="220" width="110" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="McHOg277_hmgVNXhpgxG-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="McHOg277_hmgVNXhpgxG-8" target="McHOg277_hmgVNXhpgxG-6">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="McHOg277_hmgVNXhpgxG-8" value="&amp;nbsp;Acoustic model" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="220" width="100" height="40" as="geometry" />
