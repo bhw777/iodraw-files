@@ -108,7 +108,7 @@
         <mxCell id="YrMPg6HGpBfIyIPN8bKX-55" value="Acoustic Echo Cancel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="470" width="75" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YrMPg6HGpBfIyIPN8bKX-56" value="Human Voice enhancement" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YrMPg6HGpBfIyIPN8bKX-56" value="Human Voice Enhancement" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="295" y="470" width="75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YrMPg6HGpBfIyIPN8bKX-57" value="Noise Suppression" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
