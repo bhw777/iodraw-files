@@ -22,7 +22,7 @@
         <mxCell id="iLM4n4CZV7PqPZ5OOE1h-35" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="YrMPg6HGpBfIyIPN8bKX-100" vertex="1">
           <mxGeometry width="510" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="AG31hqQCjEdd71RA2Uwd-8" value="&lt;font color=&quot;#6600cc&quot;&gt;&lt;b&gt;Ecosystem Platform / PC&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="YrMPg6HGpBfIyIPN8bKX-100" vertex="1">
+        <mxCell id="AG31hqQCjEdd71RA2Uwd-8" value="&lt;font color=&quot;#6600cc&quot;&gt;&lt;b&gt;Ecosystem Platform&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="YrMPg6HGpBfIyIPN8bKX-100" vertex="1">
           <mxGeometry y="50" width="510" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YrMPg6HGpBfIyIPN8bKX-58" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -97,9 +97,6 @@
           <mxGeometry x="505" y="410" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YrMPg6HGpBfIyIPN8bKX-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="YrMPg6HGpBfIyIPN8bKX-42" target="iLM4n4CZV7PqPZ5OOE1h-28" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="VOtqL0WOeHu0A6nUPLgf-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YrMPg6HGpBfIyIPN8bKX-42" target="iLM4n4CZV7PqPZ5OOE1h-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YrMPg6HGpBfIyIPN8bKX-42" value="Command Execution" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
