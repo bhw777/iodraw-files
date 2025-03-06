@@ -34,11 +34,6 @@
         <mxCell id="5TvJmdc4hC-FCD7px4HW-43" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Switch&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;verticalAlign=bottom;" vertex="1" parent="5TvJmdc4hC-FCD7px4HW-56">
           <mxGeometry x="175.6393442622951" y="15" width="82.95081967213116" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="5TvJmdc4hC-FCD7px4HW-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="5TvJmdc4hC-FCD7px4HW-56" source="5TvJmdc4hC-FCD7px4HW-29">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="346.365" y="-50" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="5TvJmdc4hC-FCD7px4HW-29" value="Ecosystem/&lt;span style=&quot;background-color: initial;&quot;&gt;PC&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;verticalAlign=bottom;" vertex="1" parent="5TvJmdc4hC-FCD7px4HW-56">
           <mxGeometry x="286.48" y="17.5" width="119.77" height="90" as="geometry" />
         </mxCell>
@@ -71,6 +66,11 @@
         </mxCell>
         <mxCell id="5TvJmdc4hC-FCD7px4HW-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="5TvJmdc4hC-FCD7px4HW-56" source="5TvJmdc4hC-FCD7px4HW-43" target="5TvJmdc4hC-FCD7px4HW-11">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5TvJmdc4hC-FCD7px4HW-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="5TvJmdc4hC-FCD7px4HW-29" target="5TvJmdc4hC-FCD7px4HW-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="516.365" y="170" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
