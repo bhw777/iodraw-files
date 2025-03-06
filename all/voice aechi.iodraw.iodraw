@@ -37,11 +37,14 @@
         <mxCell id="5TvJmdc4hC-FCD7px4HW-23" value="Control room" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="175.6105853658537" y="420.00333333333333" width="302.92682926829264" height="21.666666666666664" as="geometry" />
         </mxCell>
-        <mxCell id="5TvJmdc4hC-FCD7px4HW-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5TvJmdc4hC-FCD7px4HW-24" target="5TvJmdc4hC-FCD7px4HW-43">
+        <mxCell id="5TvJmdc4hC-FCD7px4HW-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="5TvJmdc4hC-FCD7px4HW-24" target="5TvJmdc4hC-FCD7px4HW-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5TvJmdc4hC-FCD7px4HW-24" value="Intercom" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="284" y="300.8333333333333" width="143.99999999999997" height="86.66666666666666" as="geometry" />
+        </mxCell>
+        <mxCell id="5TvJmdc4hC-FCD7px4HW-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5TvJmdc4hC-FCD7px4HW-29" target="5TvJmdc4hC-FCD7px4HW-43">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5TvJmdc4hC-FCD7px4HW-29" value="Ecosystem /&lt;div&gt;&amp;nbsp;PC&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;" vertex="1" parent="1">
           <mxGeometry x="620" y="300.83" width="216" height="90" as="geometry" />
