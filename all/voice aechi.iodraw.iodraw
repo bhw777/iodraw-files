@@ -13,6 +13,9 @@
         <mxCell id="5TvJmdc4hC-FCD7px4HW-8" value="Cath room" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="260.00472868217054" y="130.2266877535224" width="270.15503875968983" height="18.27165379534304" as="geometry" />
         </mxCell>
+        <mxCell id="5TvJmdc4hC-FCD7px4HW-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5TvJmdc4hC-FCD7px4HW-11" target="5TvJmdc4hC-FCD7px4HW-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5TvJmdc4hC-FCD7px4HW-11" value="Mic" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="479.99666666666667" y="40.000000000000014" width="85.35888888888888" height="77.2" as="geometry" />
         </mxCell>
@@ -51,8 +54,7 @@
             <Array as="points">
               <mxPoint x="750" y="346" />
               <mxPoint x="750" y="80" />
-              <mxPoint x="610" y="80" />
-              <mxPoint x="610" y="79" />
+              <mxPoint x="565" y="80" />
             </Array>
           </mxGeometry>
         </mxCell>
