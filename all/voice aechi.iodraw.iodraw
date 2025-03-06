@@ -40,15 +40,6 @@
         <mxCell id="5TvJmdc4hC-FCD7px4HW-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;strokeWidth=3;" edge="1" parent="1" source="5TvJmdc4hC-FCD7px4HW-29" target="5TvJmdc4hC-FCD7px4HW-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5TvJmdc4hC-FCD7px4HW-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;startArrow=none;startFill=0;strokeWidth=3;fontSize=16;" edge="1" parent="1" source="5TvJmdc4hC-FCD7px4HW-29" target="5TvJmdc4hC-FCD7px4HW-21">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="750" y="345" />
-              <mxPoint x="750" y="20" />
-              <mxPoint x="440" y="20" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="5TvJmdc4hC-FCD7px4HW-29" value="Ecosystem /&lt;div&gt;&amp;nbsp;PC&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;" vertex="1" parent="1">
           <mxGeometry x="460" y="300" width="216" height="90" as="geometry" />
         </mxCell>
@@ -59,7 +50,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="750" y="346" />
-              <mxPoint x="750" y="199" />
+              <mxPoint x="750" y="92" />
             </Array>
           </mxGeometry>
         </mxCell>
