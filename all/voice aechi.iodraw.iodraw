@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="5TvJmdc4hC-FCD7px4HW-55" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="100" y="30" width="610" height="160" as="geometry" />
+          <mxGeometry x="150" y="30" width="560" height="160" as="geometry" />
         </mxCell>
         <mxCell id="5TvJmdc4hC-FCD7px4HW-1" value="" style="group;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" connectable="0" parent="5TvJmdc4hC-FCD7px4HW-55">
-          <mxGeometry width="610" height="160" as="geometry" />
+          <mxGeometry width="560" height="160" as="geometry" />
         </mxCell>
         <mxCell id="5TvJmdc4hC-FCD7px4HW-8" value="Cath room" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="5TvJmdc4hC-FCD7px4HW-55">
-          <mxGeometry y="7.600000000000001" width="610" height="18.27" as="geometry" />
+          <mxGeometry y="7.600000000000001" width="560" height="18.27" as="geometry" />
         </mxCell>
         <mxCell id="5TvJmdc4hC-FCD7px4HW-56" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="99.99999999999999" y="220" width="610" height="160" as="geometry" />
