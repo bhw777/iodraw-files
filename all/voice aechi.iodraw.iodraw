@@ -11,7 +11,7 @@
           <mxGeometry x="99.99999999999999" y="276.74" width="610" height="160" as="geometry" />
         </mxCell>
         <mxCell id="5TvJmdc4hC-FCD7px4HW-8" value="Cath room" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="145.61" y="168.47" width="230" height="18.27" as="geometry" />
+          <mxGeometry x="280" y="37.599999999999994" width="230" height="18.27" as="geometry" />
         </mxCell>
         <mxCell id="5TvJmdc4hC-FCD7px4HW-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="5TvJmdc4hC-FCD7px4HW-11" target="5TvJmdc4hC-FCD7px4HW-21">
           <mxGeometry relative="1" as="geometry" />
