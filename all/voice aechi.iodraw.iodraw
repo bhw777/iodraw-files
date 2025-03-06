@@ -8,7 +8,7 @@
           <mxGeometry x="260" y="33.26" width="450" height="116.74" as="geometry" />
         </mxCell>
         <mxCell id="5TvJmdc4hC-FCD7px4HW-2" value="" style="group;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;verticalAlign=bottom;align=center;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="260" y="290" width="450" height="160" as="geometry" />
+          <mxGeometry x="260" y="290" width="540" height="160" as="geometry" />
         </mxCell>
         <mxCell id="5TvJmdc4hC-FCD7px4HW-8" value="Cath room" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="260.00472868217054" y="130.2266877535224" width="270.15503875968983" height="18.27165379534304" as="geometry" />
