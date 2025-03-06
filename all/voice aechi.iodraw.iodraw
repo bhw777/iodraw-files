@@ -16,7 +16,7 @@
         <mxCell id="5TvJmdc4hC-FCD7px4HW-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="5TvJmdc4hC-FCD7px4HW-56" source="5TvJmdc4hC-FCD7px4HW-43" target="5TvJmdc4hC-FCD7px4HW-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5TvJmdc4hC-FCD7px4HW-43" value="Switch" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="5TvJmdc4hC-FCD7px4HW-56">
+        <mxCell id="5TvJmdc4hC-FCD7px4HW-43" value="Switch" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;verticalAlign=bottom;" vertex="1" parent="5TvJmdc4hC-FCD7px4HW-56">
           <mxGeometry x="225" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5TvJmdc4hC-FCD7px4HW-29" value="Ecosystem/&lt;span style=&quot;background-color: initial;&quot;&gt;PC&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;verticalAlign=bottom;" vertex="1" parent="5TvJmdc4hC-FCD7px4HW-56">
