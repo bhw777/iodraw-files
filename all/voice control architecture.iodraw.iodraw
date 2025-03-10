@@ -16,7 +16,7 @@
         <mxCell id="AG31hqQCjEdd71RA2Uwd-9" value="&lt;font color=&quot;#00cc00&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;Voice&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;color: rgb(0, 204, 0); background-color: initial;&quot;&gt;Control Module&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="YrMPg6HGpBfIyIPN8bKX-101" vertex="1">
           <mxGeometry y="120" width="510" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YrMPg6HGpBfIyIPN8bKX-100" value="" style="group" parent="1" vertex="1" connectable="0">
+        <mxCell id="YrMPg6HGpBfIyIPN8bKX-100" value="" style="group;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="90" y="260" width="510" height="120" as="geometry" />
         </mxCell>
         <mxCell id="iLM4n4CZV7PqPZ5OOE1h-35" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="YrMPg6HGpBfIyIPN8bKX-100" vertex="1">
