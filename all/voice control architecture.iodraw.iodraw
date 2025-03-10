@@ -142,7 +142,7 @@
         <mxCell id="ttwGSzFQoF0jmD0cUfL_-9" value="Opencv&lt;div&gt;(For Demo)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="140" width="90" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ttwGSzFQoF0jmD0cUfL_-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="YrMPg6HGpBfIyIPN8bKX-42" target="ttwGSzFQoF0jmD0cUfL_-9">
+        <mxCell id="ttwGSzFQoF0jmD0cUfL_-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;dashed=1;dashPattern=1 1;" edge="1" parent="1" source="YrMPg6HGpBfIyIPN8bKX-42" target="ttwGSzFQoF0jmD0cUfL_-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="505" y="260" />
