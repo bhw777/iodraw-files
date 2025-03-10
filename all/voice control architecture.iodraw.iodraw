@@ -25,7 +25,7 @@
         <mxCell id="AG31hqQCjEdd71RA2Uwd-8" value="&lt;font color=&quot;#6600cc&quot;&gt;&lt;b&gt;Ecosystem Platform / PC&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="YrMPg6HGpBfIyIPN8bKX-100" vertex="1">
           <mxGeometry y="90" width="510" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YrMPg6HGpBfIyIPN8bKX-42" value="App (Dev)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="YrMPg6HGpBfIyIPN8bKX-100" vertex="1">
+        <mxCell id="YrMPg6HGpBfIyIPN8bKX-42" value="App (Need Development)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="YrMPg6HGpBfIyIPN8bKX-100" vertex="1">
           <mxGeometry x="15" width="480" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iLM4n4CZV7PqPZ5OOE1h-28" value="Text Output" style="rounded=0;whiteSpace=wrap;html=1;" parent="YrMPg6HGpBfIyIPN8bKX-100" vertex="1">
