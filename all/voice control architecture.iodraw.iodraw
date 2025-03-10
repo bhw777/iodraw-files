@@ -140,8 +140,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ttwGSzFQoF0jmD0cUfL_-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ttwGSzFQoF0jmD0cUfL_-9" value="Opencv" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="445" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ttwGSzFQoF0jmD0cUfL_-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="YrMPg6HGpBfIyIPN8bKX-42" target="ttwGSzFQoF0jmD0cUfL_-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
