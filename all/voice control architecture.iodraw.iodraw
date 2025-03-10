@@ -39,12 +39,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ttwGSzFQoF0jmD0cUfL_-13" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="YrMPg6HGpBfIyIPN8bKX-100">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint y="30" as="sourcePoint" />
-            <mxPoint x="510" y="30" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="iLM4n4CZV7PqPZ5OOE1h-31" value="Text to Speech Model" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="YrMPg6HGpBfIyIPN8bKX-100" vertex="1">
           <mxGeometry x="415" y="50" width="80" height="40" as="geometry" />
         </mxCell>
@@ -154,6 +148,12 @@
               <mxPoint x="505" y="260" />
               <mxPoint x="505" y="260" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ttwGSzFQoF0jmD0cUfL_-13" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.996;entryY=0.373;entryDx=0;entryDy=0;exitX=-0.004;exitY=0.373;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="YrMPg6HGpBfIyIPN8bKX-97" target="YrMPg6HGpBfIyIPN8bKX-97">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="290" as="sourcePoint" />
+            <mxPoint x="600" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
