@@ -26,7 +26,7 @@
           <mxGeometry y="75" width="510" height="45" as="geometry" />
         </mxCell>
         <mxCell id="YrMPg6HGpBfIyIPN8bKX-42" value="App" style="rounded=0;whiteSpace=wrap;html=1;" parent="YrMPg6HGpBfIyIPN8bKX-100" vertex="1">
-          <mxGeometry x="10" width="480" height="40" as="geometry" />
+          <mxGeometry x="10" y="10" width="480" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YrMPg6HGpBfIyIPN8bKX-58" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="460" width="250" height="60" as="geometry" />
@@ -39,6 +39,9 @@
         </mxCell>
         <mxCell id="iLM4n4CZV7PqPZ5OOE1h-7" value="Acoustic Model" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="100" y="310" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ttwGSzFQoF0jmD0cUfL_-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iLM4n4CZV7PqPZ5OOE1h-12" target="YrMPg6HGpBfIyIPN8bKX-67">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iLM4n4CZV7PqPZ5OOE1h-12" value="Language Model" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="200" y="310" width="80" height="40" as="geometry" />
