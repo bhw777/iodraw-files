@@ -151,12 +151,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ttwGSzFQoF0jmD0cUfL_-19" value="AISpeech" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-3" y="220" width="60" height="30" as="geometry" />
+          <mxGeometry x="20" y="290" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ttwGSzFQoF0jmD0cUfL_-21" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="10" y="320" as="sourcePoint" />
-            <mxPoint x="670" y="280" as="targetPoint" />
+            <mxPoint x="20" y="290" as="sourcePoint" />
+            <mxPoint x="670" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
